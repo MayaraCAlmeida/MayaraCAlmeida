@@ -4,8 +4,7 @@
 
 Sou Engenheira/Analista de dados em transição de carreira, construindo pipelines do zero e aprendendo na prática.
 
-Tenho rigor com dados, conformidade e atenção a detalhes. Aplico isso em engenharia/análise de dados.
-
+Farmacêutica que migrou pra dados, onde aprendi que dado errado tem consequência real e por isso trago um zelo absurdo por dados e processos
 <br clear="right"/>
 
 ---
