@@ -4,7 +4,8 @@
 
 Sou Engenheira/Analista de dados em transição de carreira, construindo pipelines do zero e aprendendo na prática.
 
-Farmacêutica que migrou pra dados, onde aprendi que dado errado tem consequência real e por isso trago um zelo absurdo por dados e processos
+Farmacêutica que migrou para a área de dados. Na farmácia, aprendi na pele que dado errado tem consequência real e esse zelo absurdo com informação, precisão e processos eu trouxe comigo para a engenharia e análise de dados
+
 <br clear="right"/>
 
 ---
