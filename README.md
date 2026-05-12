@@ -1,16 +1,50 @@
-## Hi there 👋
+<img align="right" width="380" src="./banner.png"/>
 
-<!--
-**MayaraCAlmeida/MayaraCAlmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, me chamo Mayara Almeida 👋
 
-Here are some ideas to get you started:
+Sou Engenheira/Analista de dados em transição de carreira, construindo pipelines do zero e aprendendo na prática.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho rigor com dados, conformidade e atenção a detalhes. Aplico isso em engenharia/análise de dados.
+
+<br clear="right"/>
+
+---
+
+# Minha stack 
+
+- Pipelines ETL/ELT ponta a ponta com Python e PostgreSQL
+- Web scraping, extração de PDF e ingestão automatizada de dados
+- Orquestração com Apache Airflow e modelagem com dbt
+- Dashboards interativos e automação via GitHub Actions + CI/CD
+- Dashboards em Power BI para geração de insights
+- Arquiteturas mapeadas para cloud (AWS: S3, Glue, RDS, MWAA)
+
+---
+
+# Projetos Principais
+
+| Projeto | Stack | |
+|---|---|---|
+| [Brasileirão 2026 — Data Pipeline](https://github.com/MayaraCAlmeida/brasileirao-2026-pipeline) | Python · PostgreSQL · Airflow · dbt · PySpark · GitHub Actions | [→ Demo](https://mayaracalmeida.github.io/brasileirao-2026-pipeline) |
+| [Análise de Vendas — Detecção de Anomalias](https://github.com/MayaraCAlmeida/Data-Quality-Analytics-Pipeline) | Python · PostgreSQL · Power BI | |
+| [Denver Nuggets — Análise NBA](https://github.com/MayaraCAlmeida/Denver-nuggets-performance-analysis) | Python · PostgreSQL · Power BI | |
+| [Suplementos Multi-Marketplace](https://github.com/MayaraCAlmeida/ETL-Dashboard-Suplementos-Marketplace) | Python · PostgreSQL · Power BI · DAX | |
+| [DealMetrics — Inteligência de Preços](https://github.com/MayaraCAlmeida/deal-metrics) | HTML · CSS · JavaScript | [→ Demo](https://deal-metrics.netlify.app/) |
+
+---
+
+# Habilidades
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+📬 mayalmeida222@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/mayara-almeida-9332a1194)
